@@ -8,6 +8,6 @@ Built a chatting application similar to WhatsApp
 ![client](https://user-images.githubusercontent.com/64066950/94194773-c54c0380-fecf-11ea-98eb-5fb894cb4b2d.png)
 
 
-
-![full2](https://user-images.githubusercontent.com/64066950/94194904-f3c9de80-fecf-11ea-9ffd-2c0eef571e8a.png)
 Transfer of messages from both sides
+![full2](https://user-images.githubusercontent.com/64066950/94194904-f3c9de80-fecf-11ea-9ffd-2c0eef571e8a.png)
+
