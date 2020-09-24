@@ -10,4 +10,4 @@ Client
 
 
 ![full2](https://user-images.githubusercontent.com/64066950/94194904-f3c9de80-fecf-11ea-9ffd-2c0eef571e8a.png)
-Transfer of messages from both sides
+                Transfer of messages from both sides
